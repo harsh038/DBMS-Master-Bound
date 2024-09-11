@@ -79,6 +79,8 @@ VALUES
 (375, 'PRMOD', 'VIRAR', 8000.00),
 (481, 'KRANTI', 'NEHRU PLACE', 3000.00);
 
+--------------------------------------PART - A--------------------------------------
+
 SELECT * FROM DEPOSIT
 
 SELECT * FROM BORROW
